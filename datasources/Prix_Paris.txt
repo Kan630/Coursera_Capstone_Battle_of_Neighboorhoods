@@ -1,0 +1,106 @@
+﻿<br /></div>
+<br /><a name='moyenne'></a><h2>Moyenne</h2>
+prix standardisé : 9500 €/m2
+<br />évolution trimestrielle : + 2 %
+<br />évolution sur 1 an : + 6,2 %
+<br />évolution sur 5 ans : + 14,9 %
+<br /><a name='1er-arrondissement'></a><h2>1er arrondissement</h2>
+12 660 €/m2
+<br />+3,1 %
+<br />+ 11,2 %
+<br />+ 25 %
+<br /><a name='2e-arrondissement'></a><h2>2e arrondissement</h2>
+11 370 €
+<br />1.1 %
+<br />7.4 %
+<br />17.1 %
+<br /><a name='3e-arrondissement'></a><h2>3e arrondissement</h2>
+11 340 €
+<br /> 1.7 %
+<br /> 2.9 %
+<br /> 10.9 %
+<br /><a name='4e-arrondissement'></a><h2>4e arrondissement</h2>
+12 750 €
+<br /> 3.3 %
+<br /> 7.7 %
+<br /> 15.8 %
+<br /><a name='5e-arrondissement'></a><h2>5e arrondissement</h2>
+11 770 €
+<br /> 4.2 %
+<br /> 4.9 %
+<br /> 14.8 %
+<br /><a name='6e-arrondissement'></a><h2>6e arrondissement</h2>
+13 010 €
+<br /> 3 %
+<br /> 8.2 %
+<br /> 10.9 %
+<br /><a name='7e-arrondissement'></a><h2>7e arrondissement</h2>
+12 340 €
+<br /> 0.3 %
+<br /> 3.1 %
+<br /> 11.2 %
+<br /><a name='8e-arrondissement'></a><h2>8e arrondissement</h2>
+10 560 €
+<br /> 6.7 %
+<br /> 5.6 %
+<br /> 12.4 %
+<br /><a name='9e-arrondissement'></a><h2>9e arrondissement</h2>
+10 150 €
+<br /> 1.3 %
+<br /> 7.3 %
+<br /> 17.3 %
+<br /><a name='10e-arrondissement'></a><h2>10e arrondissement</h2>
+8 870 €
+<br /> 0.3 %
+<br /> 5.2 %
+<br /> 19.3 %
+<br /><a name='11e-arrondissement'></a><h2>11e arrondissement</h2>
+9 580 €
+<br /> 4 %
+<br /> 7.1 %
+<br /> 20.5 %
+<br /><a name='12e-arrondissement'></a><h2>12e arrondissement</h2>
+8 720 €
+<br /> 0.8 %
+<br /> 4.1 %
+<br /> 11.7 %
+<br /><a name='13e-arrondissement'></a><h2>13e arrondissement</h2>
+8 610 €
+<br /> 3.3 %
+<br /> 3.9 %
+<br /> 9.4 %
+<br /><a name='14e-arrondissement'></a><h2>14e arrondissement</h2>
+9 330 €
+<br /> -1.1 %
+<br /> 7.1 %
+<br /> 8.8 %
+<br /><a name='15e-arrondissement'></a><h2>15e arrondissement</h2>
+9 350 €
+<br /> 1.8 %
+<br /> 3.5 %
+<br /> 9.6 %
+<br /><a name='16e-arrondissement'></a><h2>16e arrondissement</h2>
+10 070 €
+<br /> 2.2 %
+<br /> 6.2 %
+<br /> 10.4 %
+<br /><a name='17e-arrondissement'></a><h2>17e arrondissement</h2>
+9 600 €
+<br /> 1.9 %
+<br /> 5.7 %
+<br /> 16.1 %
+<br /><a name='18e-arrondissement'></a><h2>18e arrondissement</h2>
+8 890 €
+<br /> 3.7 %
+<br /> 6.8 %
+<br /> 23.8 %
+<br /><a name='19e-arrondissement'></a><h2>19e arrondissement</h2>
+7 800 €
+<br /> 1 %
+<br /> 10.7 %
+<br /> 14.4 %
+<br /><a name='20e-arrondissement'></a><h2>20e arrondissement</h2>
+8 240 €
+<br /> 3.9 %
+<br /> 8.3 %
+<br /> 16.6 %
